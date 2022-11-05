@@ -1,0 +1,50 @@
+.Name {
+  margin: 30px;
+}
+
+body {
+  margin: 30px;
+}
+
+nav {
+  background-color: aquamarine;
+  margin: 30px;
+  height: 35px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container {
+  background-color: rgb(21, 33, 99);
+  color: white;
+}
+
+.my_Signin {
+  padding: 12px;
+  padding-left: 23px;
+  margin: 30px;
+}
+
+.Email {
+  margin: 30px;
+}
+
+.Number {
+  margin: 30px;
+}
+
+.Password {
+  margin: 30px;
+}
+
+.Signin {
+  width: 900px;
+  background-color: darkred;
+  border-radius: 20%;
+  margin: 150px;
+}
+
+img {
+  width: 50px;
+  padding-bottom: 60px;
+}
